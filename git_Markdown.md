@@ -37,4 +37,4 @@
 ### git && github
 - [Git - 简易指南](http://rogerdudler.github.io/git-guide/index.zh.html)
 - [Git教程](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)
-- [Pro git 中文版](https://www.gitbook.com/book/0532/progit/details)	
+- [Pro git 中文版](http://git-scm.com/book/zh/v2)	
