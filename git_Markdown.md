@@ -14,15 +14,14 @@
    
 **测试任务**: 
 
-0.在 [xiyouant](https://github.com/xiyouant) 找到这个项目，并且 star 一下
-
-1.github 小练习
-
-  * 申请 github 账号，并创建一个 github_learning 库 
-  * 在本地写一个 c 语言小程序，输出 `Hello World，xiyounet` 
-  * 使用命令行，将你写的程序推送到你自己的 github_learning 中
-
+0. 在 [xiyouant](https://github.com/xiyouant) 找到这个项目，并且 star 一下
+1. github 小练习
+   * 申请 github 账号，并创建一个 github_learning 库 
+   * 在本地写一个 c 语言小程序，输出 `Hello World，xiyounet` 
+   * 使用命令行，将你写的程序推送到你自己的 github_learning 中
 2. 利用 Markdown 语法，写 Blog ，记笔记
+   
+
 
 ## 参考资料
 
