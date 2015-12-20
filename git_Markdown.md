@@ -14,7 +14,7 @@
    
 **测试任务**: 
 
-申请加入 [xiyouant](https://github.com/xiyouant)，然后找到这个项目，并且 star 一下
+在 [xiyouant](https://github.com/xiyouant)，找到这个项目，并且 star 一下
 
 1. 在自己的 github 中，创建一个 winter_learning 的库，写一个 task_one_hello.c 文件,输出 `Hello World，xiyounet` , 推送到该库之中。
 2. 利用 Markdown 语法，写 Blog ，记笔记
