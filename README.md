@@ -40,7 +40,7 @@
 
 ## 综合参考资料
  - [免费中文书籍所引目录](https://github.com/vhf/free-programming-books/blob/master/free-programming-books-zh.md#cc)
-
+ - [awesome list](https://github.com/sindresorhus/awesome) 将  github 上优秀的 awesome-xxx 收集起来形成的一个列表
 
     
 
