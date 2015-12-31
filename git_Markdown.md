@@ -14,10 +14,14 @@
    
 **测试任务**: 
 
-申请加入 [xiyouant](https://github.com/xiyouant)，然后找到这个项目，并且 star 一下
-
-1. 在自己的 github 中，创建一个 winter_learning 的库，写一个 task_one_hello.c 文件,输出 `Hello World，xiyounet` , 推送到该库之中。
+0. 在 [xiyouant](https://github.com/xiyouant) 找到这个项目，并且 star 一下
+1. github 小练习
+   * 申请 github 账号，并创建一个 github_learning 库 
+   * 在本地写一个 c 语言小程序，输出 `Hello World，xiyounet` 
+   * 使用命令行，将你写的程序推送到你自己的 github_learning 中
 2. 利用 Markdown 语法，写 Blog ，记笔记
+   
+
 
 ## 参考资料
 
@@ -33,4 +37,4 @@
 ### git && github
 - [Git - 简易指南](http://rogerdudler.github.io/git-guide/index.zh.html)
 - [Git教程](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)
-- [Pro git 中文版](https://www.gitbook.com/book/0532/progit/details)	
+- [Pro git 中文版](http://git-scm.com/book/zh/v2)	
